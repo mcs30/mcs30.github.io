@@ -6,3 +6,20 @@ body{
 h1{
     text-align:center;
 }
+
+.assignment{
+    display:flex;
+    padding:10px;
+    margin:5px;
+    background:#CFAF44;
+}
+
+.assigmentimg{
+    width:240px;
+    padding:10px;
+}
+
+a{
+    text-decoration: none;
+    color:#A0A0B0
+}
